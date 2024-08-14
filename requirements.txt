@@ -5,4 +5,3 @@ python-dotenv==1.0.0
 streamlit==1.25.0
 pandas==2.0.3
 faiss-cpu==1.7.4
-tiktoken==0.4.0
